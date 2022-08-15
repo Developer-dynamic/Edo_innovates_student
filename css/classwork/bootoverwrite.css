@@ -1,0 +1,44 @@
+
+.navbar-expand-lg{
+    background-color: white;
+}
+img{
+    width: 500px;
+}
+.nav-point{
+margin-top: 50px;
+}
+.dropdown-menu{
+    color: black;
+}
+.dropdown-item{
+    color: rgb(238, 13, 13);
+}
+
+.logobtom h1{
+    
+    font-size: 1.2em;
+}
+.container{
+    margin-top: 40px;
+  
+}
+
+.make-rw{
+    font-size: 3.3rem;
+    margin-bottom: 5%;
+    padding-top: 6%;
+}
+
+.learn{
+    background-color: black;
+    color: white;
+    height: 45px;
+    width: 120px;
+    border-radius: 15px;
+}
+
+.d-flex .btn{
+    border-radius: 15px;
+    margin-left: 30px;
+}

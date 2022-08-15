@@ -1,0 +1,240 @@
+body{
+    margin: 0;
+}
+.bg{
+    background-color: black;
+}
+#container-1{
+    background: url("../image/netflix_body.jpg ");
+    min-height: 100%;
+    margin: 0px;
+    
+
+}
+/*
+.transparent{
+    background-color: black;
+   
+}*/ 
+header{
+    display: flex;
+    margin-bottom: 2%;
+}
+.wrap-input{
+    min-height: 130px;
+}
+
+header input[type=button] {
+    margin: 20px;
+    height: 30px;
+    width: 80px;
+    background-color: #e50914;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 1rem;
+    padding: 7px 17px;
+}
+
+.title{
+    text-align: center;
+    color: white;
+    margin-top: 4%;
+
+}
+.title h1{
+    margin: 0px;
+    font-size: 4rem;
+    font-family:  Helvetica, Arial, sans-serif;
+}
+
+.title h3{
+    margin: 30px;
+    font-family:  sans-serif, Helvetica, Arial;
+}
+
+.title p{
+    font-size: 1.2em;
+    font-family:    Helvetica, Arial, sans-serif;
+}
+.main input[type=email]{
+    height: 50px;
+    border: none;
+    width: 400px;
+}
+.main input[type=button]{
+    height: 50px;
+    background-color: #e50914;
+    color: white;
+    border: none;
+    width: 200px;
+    font-size: 1rem;
+    padding: 7px 17px;
+}
+
+.main input[type=button]:hover{
+    
+    background-color: green;
+}
+ .main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;  
+    margin-top: 130px;
+     
+}
+/*
+ccontainer 2 properties
+*/
+.container-2{
+    height: 200px;
+    background-color: black;
+    height: 500px;
+    border-top: 5px rgb(56, 54, 54) solid;
+    
+}
+.title-2{
+    
+    float: left;
+    width: 40%;
+    color: white;
+    font-size: 3rem;
+    margin-left: 10%;
+    margin-top: 4%;
+    font-family:  Helvetica, Arial, sans-serif;
+
+}
+
+
+.title-2 h1{
+    color: white;
+    font-size: 1.2em;
+    font-family:    Helvetica, Arial, sans-serif;
+}
+.title-2 p{
+    color: white;
+    font-size: 0.5em;
+    font-family:    Helvetica, Arial, sans-serif;
+}
+
+
+.title-2{
+    
+    float: left;
+    width: 40%;
+    color: white;
+    font-size: 2rem;
+    margin-left: 10%;
+    margin-top: 4%;
+    font-family:  Helvetica, Arial, sans-serif;
+
+}
+.show-2{
+    float: right;
+    width: 40%;
+    margin-right:5% ;
+    border: 0;
+    height: auto;
+    max-width: 100%;   
+}
+
+ .show-2 img{
+    width: 100%;
+    position: relative;
+}
+ .show-2 video{
+    width: 30%;
+    position: absolute;
+    margin-left:0%;
+}
+/*
+container 3*/
+.container-3{
+    clear: both;
+    height: 200px;
+    background-color: black;
+    height: 500px;
+    border-top: 5px rgb(46, 44, 44) solid;
+    
+}
+
+.title-3{
+    
+    float: right;
+    width: 40%;
+    color: white;
+    font-size: 1.4rem;
+    margin-right: 10%;
+    margin-top: 4%;
+    font-family:  Helvetica, Arial, sans-serif;
+
+}
+.show-3{
+    float: left;
+    width: 40%;
+    height: auto;
+    max-width : 100%;   
+}
+/*
+container 3*/
+
+.container-4{
+    clear: both;
+    height: 200px;
+    background-color: black;
+    height: 500px;
+    border-top: 5px rgb(46, 44, 44) solid;   
+}
+
+.title-4{
+    
+    float: left;
+    width: 40%;
+    color: white;
+    font-size: 1.4rem;
+    margin-left: 10%;
+    margin-top: 4%;
+    font-family:  Helvetica, Arial, sans-serif;
+}
+
+/*
+ccontainer 5 properties
+*/
+.container-5{
+    clear: both;
+    height: 200px;
+    background-color: black;
+    height: 500px;
+    border-top: 5px rgb(46, 44, 44) solid;
+    
+}
+.title-5{
+    
+    float: right;
+    width: 40%;
+    color: white;
+    font-size: 1.4rem;
+    margin-right: 10%;
+    margin-top: 4%;
+    font-family:  Helvetica, Arial, sans-serif;
+
+}
+.show-5{
+    float: left;
+    width: 40%;
+    height: auto;
+    max-width : 100%;   
+}
+
+/*
+ccontainer 5 properties
+*/
+.container-6{
+    clear: both;
+    height: 200px;
+    background-color: black;
+    height: 500px;
+    border-top: 5px rgb(46, 44, 44) solid;
+    color: white;   
+}

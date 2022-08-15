@@ -1,0 +1,146 @@
+.all-top .sign-in{
+    width: 100px;
+    height: 50px;
+    background-color: gray;
+    border: none;
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    border: 5px gray;
+    margin-right: 10px;
+}
+.nav-position{
+    
+}
+.all-top .sign-up{
+    width: 100px;
+    height: 50px;
+    background-color: orange;
+    border: none;
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    margin-right: 100px;
+   
+}
+
+.all-top a{
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+}
+.all-top {
+    /*position: fixed;*/
+}
+.section-2{
+    
+    
+}
+.section-2{
+    margin-top: 5%;
+}
+.section-3{
+    text-align: center;
+    margin-top: 5%;
+}
+.section-4{
+    text-align: left;
+    margin-top: 5%;
+}
+.section-5{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.section-6{
+    width: 95%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.row-6{
+    width: 90%;
+    ;
+}
+
+.h1-head{
+    font-weight: 700;
+    margin-bottom: 2.8rem;
+}
+
+.p1{
+    margin-top: 2;
+    color: #544837;
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-bottom: 5rem;
+
+}
+.col1{
+    width: 40%;
+    margin-left: 100px;
+}
+.col2{
+    width: 40%;
+}
+
+.body-img{
+    width: 90%;
+}
+
+.get-started{
+    width: 120px;
+    height: 60px;
+    background-color: orange;
+    border: none;
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    margin-right: 100px;
+
+}
+.watch-vid{
+    width: 140px;
+    height: 60px;
+    border: 5px #f90;
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    margin-right: 100px;
+    background-color: white;
+    font-weight: 500;
+
+    font-family: "Poppins","Rubik","Open Sans",-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+.watch-vid a{
+    color: #f90; 
+}
+
+.all-icon{
+    width: 75px;
+    box-sizing: border-box;
+    vertical-align: middle;
+}
+
+.card-size{
+    width: 70%;
+    border: none;
+    margin-left: 3rem;
+}card-lg-3 col-md-3 col-sm-6
+.get-sign-up{
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: none;
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    margin-right: 100px;
+    font-weight: 700;
+
+}

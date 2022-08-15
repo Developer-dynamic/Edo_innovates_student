@@ -1,0 +1,114 @@
+i {
+  background-color: #fff;
+  padding: 10px 13px;
+  cursor: pointer;
+  border-radius: 8px;
+  font-size: 1.5rem;
+}
+
+.software {
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+.omoo {
+  margin-left: 14rem;
+  font-size: 1.1rem;
+  font-weight: bolder;
+}
+
+.navbar-section {
+  background-color: #EFEFEF;
+}
+
+.image-section {
+  background-image: url("images/mbr.jpg");
+  height: 670px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.mobile-app {
+  margin: 10% 0 0 9%;
+}
+
+.mymy {
+  font-size: 3.6rem;
+  letter-spacing: 2px;
+  font-weight: 700;
+}
+
+.mumu {
+  background-color: #fff;
+   width: 65%;
+   border-radius: 20px;
+}
+
+
+.code-image {
+  height: 550px;
+  margin-left: 5rem;
+  position: absolute;
+  z-index: 1;
+  border-radius: 10px;
+  margin-top: 22px;
+  /* padding-top: 10px; */
+}
+
+.code-div {
+  width:30%;
+}
+
+.next-div {
+  margin-left: 15rem;
+}
+
+.lorem-paragraph {
+  width: 70%;
+  font-size: 18px;
+}
+
+.another {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+@media (max-width: 992px) {
+   .code-image {
+     position: static;
+     margin-left: 0.3rem;
+     height: 500px;
+     width: 110%;
+     border-radius: 10px;
+     margin-top: 2px;
+ }
+
+ .code-div {
+   width: 90%;
+   display: block;
+ }
+
+ .mumu {
+   width: 100%;
+   text-align: center;
+   margin-top: 25px;
+   border-radius: 12px;
+ }
+
+ .next-div {
+   margin-left: 1rem;
+ }
+
+ .image-section {
+   text-align: center;
+ }
+
+ .omoo {
+   margin-left: 0;
+ }
+
+ .lorem-paragraph {
+   width: 100%;
+ }
+}

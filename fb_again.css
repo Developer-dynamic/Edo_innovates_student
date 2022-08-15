@@ -1,0 +1,79 @@
+body{
+    background-color: #f1f1f1f1;
+}
+.everything{
+    width: 100%;
+    margin-left: 150px;
+    justify-content: center;
+}
+header{
+    width: 70%;
+}
+
+
+
+.fb_text h1{
+    color: blue;
+    font-size: 4em;
+    margin: px;
+    width: 70%;
+}
+.fb_text p{
+    color: black;
+    font-size: 1.2em;
+    margin: px;
+    width: 70%;
+}
+.login_details{
+    width: 100%;
+}
+form{
+    background-color: white;
+    width: 60%;
+    height: 65%;
+    
+}
+ form input{
+    width: 85%;
+    height: 50px;
+    margin: 10px;
+    border-radius: 6px;
+}
+hr{
+    width: 90%;
+}
+
+.login_details .login{
+    width: 85%;
+    height: 50px;
+    margin: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 6px;
+}
+
+.login_details form .create_acc{
+    width: 85%;
+    height: 50px;
+    margin: 10px;
+    background-color:green;
+    color: white;
+    border-radius: 6px;
+}
+form p{
+    text-align: center;
+}
+.container{
+    width: 100%;
+}
+.container .last{
+    margin: 30px;
+}
+@media (min-width: 720px) {
+
+  .everything{
+    margin-top: 200px;
+    display: flex;
+    height: 100%;
+  } 
+}

@@ -1,0 +1,101 @@
+#container{
+    text-align: center;
+}
+
+.main-image{
+    width: 70%;
+    margin-top: 2.5%;
+    margin-bottom: 6%;
+}
+
+.smalLG{
+    margin-top: 5%;
+    width: 120px;
+    
+}
+.faded{
+    color: rgb(142, 140, 140);
+    font-size: 3.6rem;
+    margin-top: 2.5%;
+    margin-bottom: 1.5%;
+}
+form{
+    
+    margin-top: 2.5%;
+    margin-bottom: 1.5%;
+}
+
+.strong{
+    color: black;
+}
+form input[type=email]{
+    width: 60%;
+    height: 60px;
+    border-radius: 60px;
+    
+    border-color: 1px gray
+    
+}
+
+form input[type=button]{
+    width: 25%;
+    height: 60px;
+    border-radius: 40px;
+    border-color: rgba(5, 159, 219, 0.987);
+    background-color: rgba(5, 159, 219, 0.987);
+    color: white;
+    font-size: 20px
+}
+
+form input[type=button]:hover{
+    background-color: rgba(2, 254, 220, 0.95);
+    color: rgb(13, 0, 0);
+}
+
+.social_icon{
+    margin-bottom: 2%;
+}
+/*.copyright{
+
+}
+*/
+.challenge{
+    margin-top: 2.5%;
+}
+@media(max-width: 765px){
+
+    form input[type=email]{
+        width: 85%;
+        height: 60px;
+        border-radius: 60px;
+        margin-bottom: 3.5%;
+        border-color: red;
+        
+    }
+
+    form input[type=button]{
+        width: 85%;
+        height: 60px;
+        border-radius: 40px;
+        border-color: rgba(5, 159, 219, 0.987);
+        background-color: rgba(5, 159, 219, 0.987);
+        color: white;
+        font-size: 20px
+        
+    }
+
+    .faded{
+        color: rgb(142, 140, 140);
+        font-size: 2.6rem;
+        margin-top: 2.5%;
+        margin-bottom: 1.5%;
+    }
+}
+
+.fa-facebook{
+    margin-right: 50px;
+}
+
+.fa-twitter{
+    margin-right: 50px;
+}
